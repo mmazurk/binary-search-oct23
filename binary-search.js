@@ -14,7 +14,6 @@
 function binarySearch(arr, val) {
 
     // set your initial values first
-
     let leftIndex = 0;
     let rightIndex = arr.length - 1;
 
@@ -37,6 +36,11 @@ function binarySearch(arr, val) {
     // if you say leftIndex < rightIndex it never will find the value
     
     while (leftIndex <= rightIndex) {
+
+    // you can also make these conditionals shorter
+    // refactor to ... 
+    // just do if {} elseif {} else {}
+
         if (arr[middleIndex] === val) {
             return val;
         }

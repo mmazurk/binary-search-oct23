@@ -1,8 +1,7 @@
 # Interview Practice
 
-This is me practicing for my coding interview. For many of these problems I just paste them into the Chrome or Edge devloper console as a snippet and then test them with different cases.
+This is me practicing for my coding interview. I test these the Chrome or Edge devloper console by usring a snippet. 
 
-
-
+- **binary-search.js** needs to be refactored
 
 
