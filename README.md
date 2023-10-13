@@ -1,11 +1,33 @@
-# Interview Practice
 
-This is me practicing for my coding interview. I test these the Chrome or Edge devloper console by usring a snippet. For all of these ...
+# Data Structures
+
+- **Linked Lists**
+- **Trees, Tries, and Graphs**
+- **Stacks and Queues**
+- **Heaps**
+- **Vectors and ArrayLists**
+- **Hash Tables**
+
+# Algorithms
+
+- **Breadth-First Search**
+- **Depth-First Search**
+- **Binary Search**
+- **Merge Sort**
+- **Quick Sort**
+
+# Concepts
+
+- **Bit Manipulation**
+- **Memory (Stack vs. Heap)**
+- **Recursion**
+- **Dynamic Programming**
+- **Big O Time and Space**
+
+## Binary Search Problems
 
 Constraints:
 Time Complexity: O(log N)
-
-## Completed
 
 **binarySearch**
 Given an array of numbers and a value, write a function called binarySearch that returns the target value if it is in the array, or -1 if it is not.
@@ -15,8 +37,6 @@ binarySearch([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], 100) // -1
 binarySearch([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], -1) // -1
 binarySearch([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], 5) // 5
 ```
-
-## To Be Completed
 
 **countZeroes**
 Given an array of 1s and 0s which has all 1s first followed by all 0s, write a function called countZeroes, which returns the number of zeroes in the array.
